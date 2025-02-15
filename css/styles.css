@@ -1,0 +1,77 @@
+
+
+.img-fluid
+{
+    float: none;
+    /* margin-right: 5em; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 2em;
+    height: 500px;
+    width: 650px;
+    
+}
+
+.thingsilike 
+{
+    text-align: center;
+}
+#scheduleheader
+{
+    text-align: center;
+
+}
+.partypleaser{
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    width: 400px;
+}
+.facethemusic{
+    margin-left:10em;
+    margin-right: auto;
+    height: 400px;
+    width: 400px;
+}
+.sunalwaysshines{
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    width: 400px;
+}
+#projecttitle{
+    text-align: center;
+}
+#musicaboutgen{
+    text-align: center;
+}
+#aboutme 
+{
+    float: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: auto;
+}
+#aboutmeheader
+{
+    float: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: auto;
+}
+table, th, td 
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+th 
+{
+    text-align: left;
+}
