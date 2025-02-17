@@ -17,6 +17,21 @@
 {
     text-align: center;
 }
+ul.movieul
+{
+    display: inline-block;
+    text-align: left;
+}
+ol.websiteol
+{
+    display: inline-block;
+    text-align: left;
+}
+ol.hobbiesol
+{
+    display: inline-block;
+    text-align: left;
+}
 #scheduleheader
 {
     text-align: center;
